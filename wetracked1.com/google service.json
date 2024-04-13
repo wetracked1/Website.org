@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_id": "466762392",
+    "github_url": "https://www.wetracked1.com/",
+    "project_id": "wetracked1.com-project",
+    "storage_bucket": "Wetracked1.com-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466762392:android:ea412b1a267b4810935927",
+        "android_client_info": {
+          "package_name": "www.wetracked1.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466762392-.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.wetracked1.com",
+            "certificate_hash": "6d640f98eee14dd0998b7387470f0dfb4bc064a53f605ba2427786bc8462631e"
+          }
+        },
+        {
+          "client_id": "466762392-.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.wetracked1.com",
+            "certificate_hash": "82e978eb1421232ea5c0bbe386456dee237815d62e4954c3ace17d7f5c65951a"
+          }
+        },
+        {
+          "client_id": "466762392-.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaScDGAaAksJ5EkR5Q"
+        } 
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466762392-.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "466762392-apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.test.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+  }
+
