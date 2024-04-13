@@ -2,8 +2,8 @@
   "project_info": {
     "project_id": "466762392",
     "github_url": "https://www.wetracked1.com/",
-    "project_id": "wetracked1.com-project",
-    "storage_bucket": "Wetracked1.com-project.appspot.com"
+    "project": "wetracked1.com-project",
+    "storage_bucket": "www.wetracked1.com-project.appspot.com"
   },
   "client": [
     {
@@ -48,17 +48,14 @@
               "client_type": 3
             },
             {
-              "client_id": "466762392-apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.test.ios"
+                "client_id": "466762392-apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "com.test.ios"
+                }
               }
             }
-          ]
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
-  }
-
+          }
+      ],
+    "configuration_version": "1"
+ }
