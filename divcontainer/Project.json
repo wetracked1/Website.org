@@ -93,8 +93,10 @@
    "agent":"redirect",
    "client_resolver":"202.58.96.194",
    "retries":null,"
-   socksproxy":null,"network_events":null,
-   "tls_handshakes":null,"queries":  [
+   "socksproxy":null,
+   "network_events":null,
+   "tls_handshakes":null,
+   "queries": [
    {
    "answers":null,
    "engine":"system",
@@ -113,7 +115,9 @@
  "failure":"android_dns_cache_no_data",
  "hostname":"www.wetracked1.com",
  "query_type":"AAAA","resolver_hostname":null,
- "resolver_port":null,"{"annotations":{
+ "resolver_port":null,
+{
+  "annotations":{
  "architecture":"arm",
  "engine_name":"ooniprobe-engine","
  "engine_version":"3.20.0",
@@ -181,7 +185,9 @@
  "status_code":-1},
  "http3_request":null,
  "dns":{"failure":"dns_name_error",
- "addrs":[]}},
+ "addrs":[]
+ }
+},
  "tcp_connect":null,
  "requests":null,
  "http_experiment_failure":null,
@@ -200,7 +206,9 @@
  "test_name":"web_connectivity",
  "test_runtime":5.108537923,
  "test_start_time":"2024-04-12 08:35:04",
- "test_version":"0.4.3"}":"",
+ "test_version":"0.4.3"
+}
+ ":"",
  "t":0.229336308,
  "tags":null
  }
