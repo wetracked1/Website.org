@@ -1,0 +1,15 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: auto;
+}
+ img{
+    width: 250px;
+    height: 350px;
+ }
+.ur{
+    width: 0%;
+    height: 0%;
+    box-shadow: inset;
+    background-image: -moz-element(url);
+    background: url("img/flare_ra.jpg");
+}
