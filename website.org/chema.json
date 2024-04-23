@@ -1,0 +1,53 @@
+{
+
+ "alias": "red",
+    "long_url": "https://wecracked.website.org",
+    "short_url": "https://www.wecracked.website.org",
+    "disabled": false,
+    "expires_at": "2024-05-24 18:03:59",
+    "description": "Reddit is a network of communities based on people's interests. Find communities you're interested in, and become part of an online community!",
+    "type": "direct",
+    "created_at": "2024-05-24 18:03:59",
+    "updated_at": "2024-05-24 18:03:59",
+    "clicked_at": "2024-05-24 18:03:59",
+    "deleted_at": "2024-05-24 18:03:59",
+    "image": "https://www.redditstatic.com/icon.png",
+    "clicks_count": 854,
+    "expiration_clicks": 10,
+    "utm": "utm_source=google&utm_medium=banner",
+    "has_password": false,
+    "rules": [
+      {
+        "type": "geo",
+        "key": "us-kh",
+        "value": "https://facebook.com"
+      }
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "favorites"
+      }
+    ],
+    "pixels": [
+      {
+        "name": "Facebook Pixel",
+        "type": "facebook",
+        "pixel_id": "4564654564",
+        "head_code": "string",
+        "body_code": "string"
+      }
+    ],
+    "groups": [
+      {
+        "name": "Social Media",
+        "active": false,
+        "hash": "my-group",
+        "rotator": false,
+        "description": "My group containing social media links",
+        "created_at": "2022-05-24 17:08:59",
+        "updated_at": "2024-05-24 17:08:59"
+      }
+    ]
+  }
+}
