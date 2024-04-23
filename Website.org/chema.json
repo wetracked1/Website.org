@@ -1,7 +1,7 @@
 {
 
  "alias": "red",
-    "long_url": "https://wecracked.website.org",
+    "long_url": "https://chemaflare.website.org",
     "short_url": "https://www.wecracked.website.org",
     "disabled": false,
     "expires_at": "2024-05-24 18:03:59",
@@ -33,7 +33,7 @@
       {
         "name": "Facebook Pixel",
         "type": "facebook",
-        "pixel_id": "4564654564",
+        "pixel_id": "",
         "head_code": "string",
         "body_code": "string"
       }
